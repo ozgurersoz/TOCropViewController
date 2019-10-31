@@ -8,6 +8,6 @@ let package = Package(
     ],
     dependencies: [],
     targets: [
-        .target(name: "TOCropViewController", path: "TOCropViewController")
+        .target(name: "TOCropViewController", path: "Swift/TOCropViewController")
     ]
 )
